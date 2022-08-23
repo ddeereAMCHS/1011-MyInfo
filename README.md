@@ -1,5 +1,7 @@
 # MyInfo
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `MyInfo.java`
 - Create 5 variables that contain the following information
   - your age
