@@ -7,7 +7,7 @@
       "input": "",
       "output": "^[0-9]+\\n[a-zA-Z]{1}\\n[0-9]+\\n[0-9]+\\.[0-9]+\\n(true|false)$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
