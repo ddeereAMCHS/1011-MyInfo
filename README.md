@@ -1,6 +1,6 @@
 # MyInfo
 
-## Due: Fri 8/26 at 11:59 PM
+## Due: Mon 8/28 at 11:59 PM
 
 - Create a program called `MyInfo.java`
 - Create 5 variables that contain the following information
